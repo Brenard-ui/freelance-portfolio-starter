@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-starter",
+  "version": "1.0.0",
+  "description": "Demo portfolio template showcasing the Freelance Automation Framework",
+  "scripts": {
+    "build": "mkdir -p out && cp index.html styles.css .nojekyll out/"
+  },
+  "keywords": ["freelance", "automation", "portfolio", "template"]
+}
